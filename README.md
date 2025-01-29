@@ -5,4 +5,5 @@ an app to display live weather for cities worldwide
 - City search functionality
 - User-friendly interface
 - Technologies used: HTML, CSS, JavaScript
-
+## Tools
+- HTML, CSS, JavaScript
